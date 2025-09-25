@@ -264,7 +264,7 @@
         cosmic-panel = mkCosmicOverride {
           pkgName = "cosmic-panel";
           flakeInput = inputs.cosmic-panel-src;
-          pkgHash = "sha256-m9tWSJ/77uD29k6FFxLNtyZCkR32LHy5lzCAEPH5uXw=";
+          pkgHash = "sha256-8KOl581VmsfE7jiVFXy3ZDIfAqnaJuiDd7paqiFI/mk=";
         };
         cosmic-player = mkCosmicOverride {
           pkgName = "cosmic-player";
@@ -318,7 +318,7 @@
         cosmic-workspaces-epoch = mkCosmicOverride {
           pkgName = "cosmic-workspaces-epoch";
           flakeInput = inputs.cosmic-workspaces-epoch-src;
-          pkgHash = "sha256-ICZSp1lE8he+aQN9zjdHF9gGy2KqcVX7xZwtCd8ar6U=";
+          pkgHash = "sha256-BE6s2dmbgXlFXrtd8b9k2LltLnegLzWbIUlaEQvv+5o=";
         };
         xdg-desktop-portal-cosmic = mkCosmicOverride {
           pkgName = "xdg-desktop-portal-cosmic";
